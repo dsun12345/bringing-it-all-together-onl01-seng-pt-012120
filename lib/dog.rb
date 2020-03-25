@@ -52,4 +52,12 @@ class Dog
     self.new(hash)
   end 
   
+  def self.find_by_id
+    
+    
+  end 
+  
+  
+  
+  
 end 
