@@ -99,7 +99,7 @@ class Dog
       WHERE id = ?
     SQL
     
-    
+    DB[:conn].execute(sql, )
   end 
   
   
