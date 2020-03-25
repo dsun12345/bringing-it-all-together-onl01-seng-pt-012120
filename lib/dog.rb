@@ -40,6 +40,8 @@ class Dog
   def self.create(attributes)
     dog = self.new 
     dog.save
+    
+    dog 
   end 
   
 end 
