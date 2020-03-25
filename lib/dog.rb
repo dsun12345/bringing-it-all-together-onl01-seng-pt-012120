@@ -81,5 +81,11 @@ class Dog
       new_dog 
   end 
   
+  def self.find_by_name
+    
+    
+    
+    
+  end 
   
 end 
