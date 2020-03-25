@@ -38,7 +38,8 @@ class Dog
   end 
   
   def self.create(attributes)
-    
+    dog = self.new 
+    dog.save
   end 
   
 end 
