@@ -60,7 +60,7 @@ class Dog
     SQL
     
     DB[:conn].execute(sql,id).map do |row|
-      
+      self.
     
   end 
   
