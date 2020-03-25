@@ -59,7 +59,7 @@ class Dog
       WHERE id = ?
     SQL
     
-    
+    DB[:conn].execute
     
   end 
   
